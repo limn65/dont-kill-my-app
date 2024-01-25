@@ -1,4 +1,4 @@
----
+Tecno Spark 6Go---
 manufacturer:
     - general
 ---
